@@ -17,7 +17,9 @@ var myVar = "Doing Markdown!";
 
 
 
-
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
 
 
 
