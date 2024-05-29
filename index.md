@@ -11,6 +11,9 @@
 
 
 
+``` javascript
+var myVar = "Doing Markdown!";
+```
 
 
 
@@ -27,5 +30,4 @@
 
 
 
-
-###### This page was created to demonstrate header sizes in markdown
+###### This page was created to demonstrate formatting in markdown
